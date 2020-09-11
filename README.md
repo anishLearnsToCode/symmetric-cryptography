@@ -5,7 +5,7 @@
 
 This is part of the 4 course specialization 
 [Introduction to Applied Cryptography](https://github.com/anishLearnsToCode/intro-to-applied-cryptography)
-by the University of Colorado. This is the thirs course in this specialization.
+by the University of Colorado. This is the third course in this specialization.
 
 ## Overview
 1. [Week 1](#week-1)
@@ -16,13 +16,24 @@ by the University of Colorado. This is the thirs course in this specialization.
 1. [Certificate](#-certificate)
 
 ## Week 1
+- [Quiz: Caesar Cipher]()
+- [Quiz: Modulo Operation and Caesar Cipher]()
+- [Quiz: Vigenere Cipher]()
 
 ## Week 2
+- [Quiz: Rail Fence Cipher and Permutation Cipher]()
+- [Quiz: Product Cipher]()
 
 ## Week 3
+- [Quiz: Ideal Block Cipher]()
+- [Peer Graded Assignment: DES Overview Pseudocode]()
+- [Quiz: DES]()
 
 ## Week 4
+- [Quiz: 3-DES and 4-DES]()
+- [Quiz: AES]()
 
 ## Week 5
+- [Quiz: Block Cipher Operation Modes]()
 
 ## 🎓 Certificate
