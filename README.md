@@ -16,7 +16,7 @@ by the University of Colorado. This is the third course in this specialization.
 1. [Certificate](#-certificate)
 
 ## Week 1
-- [Quiz: Caesar Cipher]()
+- [Quiz: Caesar Cipher](week1/quiz-caesar-cipher.md)
 - [Quiz: Modulo Operation and Caesar Cipher]()
 - [Quiz: Vigenere Cipher]()
 
