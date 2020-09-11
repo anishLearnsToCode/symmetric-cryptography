@@ -18,7 +18,7 @@ by the University of Colorado. This is the third course in this specialization.
 ## Week 1
 - [Quiz: Caesar Cipher](week1/quiz-caesar-cipher.md)
 - [Quiz: Modulo Operation and Caesar Cipher](week1/modulo-operation-and-caesar-cipher.md)
-- [Quiz: Vigenere Cipher]()
+- [Quiz: Vigenere Cipher](week1/vignere-cipher.md)
 
 ## Week 2
 - [Quiz: Rail Fence Cipher and Permutation Cipher]()
