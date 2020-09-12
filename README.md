@@ -23,7 +23,7 @@ by the University of Colorado. This is the third course in this specialization.
 
 ## Week 2
 - [Quiz: Rail Fence Cipher and Permutation Cipher](week2/quiz-rail-fence-cipher-permutation-cipher.md)
-- [Quiz: Product Cipher]()
+- [Quiz: Product Cipher](week2/quiz-product-cipher.md)
 
 ## Week 3
 - [Quiz: Ideal Block Cipher]()
