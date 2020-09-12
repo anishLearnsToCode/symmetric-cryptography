@@ -1,0 +1,6 @@
+![question-1](assets/3des-4des/question-1.PNG)
+![question-1](assets/3des-4des/question-2.PNG)
+![question-1](assets/3des-4des/question-3.PNG)
+![question-1](assets/3des-4des/question-4.PNG)
+![question-1](assets/3des-4des/question-5.PNG)
+![question-1](assets/3des-4des/question-6.PNG)
