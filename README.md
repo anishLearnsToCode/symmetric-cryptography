@@ -31,8 +31,8 @@ by the University of Colorado. This is the third course in this specialization.
 - [Quiz: DES](week3/quiz-des.md)
 
 ## Week 4
-- [Quiz: 3-DES and 4-DES]()
-- [Quiz: AES]()
+- [Quiz: 3-DES and 4-DES](week4/quiz-3des-4des.md)
+- [Quiz: AES](week4/quiz-aes.md)
 
 ## Week 5
 - [Quiz: Block Cipher Operation Modes]()
