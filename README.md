@@ -22,7 +22,7 @@ by the University of Colorado. This is the third course in this specialization.
 - [Honors Peer Graded Assignment: Pseudo-Code Vignere Cipher](week1/peer-graded-vignere-cipher.md)
 
 ## Week 2
-- [Quiz: Rail Fence Cipher and Permutation Cipher]()
+- [Quiz: Rail Fence Cipher and Permutation Cipher](week2/quiz-rail-fence-cipher-permutation-cipher.md)
 - [Quiz: Product Cipher]()
 
 ## Week 3
