@@ -27,7 +27,7 @@ by the University of Colorado. This is the third course in this specialization.
 
 ## Week 3
 - [Quiz: Ideal Block Cipher](week3/ideal-block-cipher.md)
-- [Peer Graded Assignment: DES Overview Pseudocode]()
+- [Peer Graded Assignment: DES Overview Pseudocode](week3/peer-graded-assignment-des-pseudocode.md)
 - [Quiz: DES]()
 
 ## Week 4
