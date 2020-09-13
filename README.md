@@ -35,6 +35,7 @@ by the University of Colorado. This is the third course in this specialization.
 - [Quiz: AES](week4/quiz-aes.md)
 
 ## Week 5
-- [Quiz: Block Cipher Operation Modes]()
+- [Quiz: Block Cipher Operation Modes](week5/quiz-block-cipher-operation-models.md)
 
-## 🎓 Certificate
+## [🎓 Certificate](http://coursera.org/verify/KPJPY9LZAFBP)
+![certificate](certificate/certificate.PNG)

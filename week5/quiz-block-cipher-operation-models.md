@@ -1,0 +1,7 @@
+![question-1](assets/block-cipher-operation-modes/question-1-i.PNG)
+![question-2](assets/block-cipher-operation-modes/question-2.PNG)
+![question-2](assets/block-cipher-operation-modes/question-3.PNG)
+![question-2](assets/block-cipher-operation-modes/question-4.PNG)
+![question-2](assets/block-cipher-operation-modes/question-5-6.PNG)
+![question-2](assets/block-cipher-operation-modes/question-7.PNG)
+![question-2](assets/block-cipher-operation-modes/question-8.PNG)
