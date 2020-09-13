@@ -8,12 +8,12 @@ This is part of the 4 course specialization
 by the University of Colorado. This is the third course in this specialization.
 
 ## Overview
-1. [Week 1](#week-1)
-1. [Week 2](#week-2)
-1. [Week 3](#week-3)
-1. [Week 4](#week-4)
-1. [Week 5](#week-5)
-1. [Certificate](#-certificate)
+- [Week 1](#week-1)
+- [Week 2](#week-2)
+- [Week 3](#week-3)
+- [Week 4](#week-4)
+- [Week 5](#week-5)
+- [Certificate](#-certificate)
 
 ## Week 1
 - [Quiz: Caesar Cipher](week1/quiz-caesar-cipher.md)
